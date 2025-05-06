@@ -1,4 +1,0 @@
-\babel@toc {english}{}\relax 
-\contentsline {chapter}{\nonumberline About the Author}{5}{chapter*.2}%
-\contentsline {chapter}{\nonumberline Bibliography}{7}{chapter*.3}%
-\providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 

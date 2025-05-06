@@ -1,12 +1,12 @@
 This is BibTeX, Version 0.99d (TeX Live 2024)
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
-The top-level auxiliary file: ebookbook.aux
+The top-level auxiliary file: naskah.aux
 The style file: apalike.bst
-I found no \citation commands---while reading file ebookbook.aux
+I found no \citation commands---while reading file naskah.aux
 Database file #1: bibliography.bib
 You've used 0 entries,
             1935 wiz_defined-function locations,
-            471 strings with 3686 characters,
+            471 strings with 3680 characters,
 and the built_in function-call counts, 17 in all, are:
 = -- 0
 > -- 0
