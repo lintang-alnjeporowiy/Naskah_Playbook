@@ -1,0 +1,78 @@
+%% Introduction / first chapter.
+
+\chapter{Introduction to \latex and eBooks}
+
+Considering writing a book? Good for you! Publishing a book is easier and cheaper today 
+than it ever has been. 
+
+If you know what you want to write about, the next step (and sometimes the 
+hardest step) is getting started. The most important part is the material itself: 
+you can write paragraphs in any number of text and document editors, 
+and figure out how to format the material as a book later. But sooner or later, 
+the question arises of how to turn the material into a book format. That could mean a paper book, 
+which requires physical resources for printing and distributing. Or it could mean
+an eBook, to be read on an eReader such as an Amazon Kindle or Kobo
+Clara, or using an app on a phone, tablet, or laptop.
+
+So how do you turn your document into an eBook? This is a very short book demonstrating one 
+way to do this, and if you're reading this on an eReader, that shows
+that it already worked at least once --- for this book.
+
+To start with, I chose to use the \latex typesetting system. 
+The original \tex was created by the famous computer scientist Donald Knuth \citep{knuth1984texbook},
+and added to by Leslie Lamport to make \latex \citep{lamport1985latex}.
+\latex is used throughout scientific fields to write papers and books. There are many
+reasons for preferring \latex to one of the more `point, click, and type' text editors:
+it handles figures, tables, chapters, sections, headings, cross-references, 
+bibliographic references, mathematical equations, and many more things that can be 
+notoriously irritating and time consuming to get right. And it's possible to use different typesetting
+programs and commands to create all sorts of output from \latex input, including eBooks.
+
+If \tex and \latex are entirely unfamiliar to you, even this automation and flexibility 
+may not make it the best choice for you to write a book, because there is quite a technical 
+learning-curve for \latex. It's not just writing text, it's writing commands telling the
+typesetting program how to `compile' the output document --- in many ways, \latex
+feels much more like programming than writing a Google or Microsoft Word document. But if
+\latex is something you've already used to write a dissertation or paper, you're 
+probably well aware of its benefits (and its hassles). 
+
+In summary, if you've used \latex to write papers, now you want to write an eBook,
+and you need to figure out how to do this, then this little book and
+the open source template that it comes from might be ideal.
+There are other ways to make eBooks, and other ways to use
+\latex to make eBooks --- this book isn't comprehensive, but it might just
+enable you to make an eBook end-to-end quickly, cheaply, and easily.
+
+%%%
+\section{How to Use this Book}
+
+This is a book about itself --- it's about how it was written using
+the templates and tools described in 
+the next few chapters. These are the main ways you can use this material:
+
+\begin{itemize}
+    \item You can read it. It shouldn't take long, it outlines the process
+    used to make this eBook end to end, and then you can decide if this is something you want to try.
+    \item You can use it as an instruction manual, learning and following some of the procedures step-by-step to make your own book.
+    \item You can use it as a template. All of the source files used to make this book
+    are freely available in GitHub at {\small \url{https://github.com/dwiddows/ebookbook}} and Overleaf.
+    The source files are laid out in a way that should make it easy to clone the project and adapt it for your own book.
+\end{itemize}
+
+It follows that you could recreate this eBook for yourself, following just the process
+described in the book: which is basically to clone the GitHub project as a template, build
+the project, send the output HTML document through an ePub converter, and send this to
+your eReader device.
+
+So why would anyone buy a book if it's free? Because
+anyone who reads the steps above and with enough familiarity to think
+``git clone \ldots check dependencies \ldots  build.sh \ldots 
+check dependencies again \ldots build.sh \ldots  \ldots yeah, alright'' will expect it to take
+more than a few minutes, hopefully less than an hour, and price their own time realistically.
+If you want to read this book for free on your eReader,
+compiling from source is the way to go about it. Or if you want to just click `buy' now and send the author most of the
+\$2.99 price tag, please go ahead, and thank you!
+
+Either way, if you're not put off by \latex and \smalltt{git}
+commands, keep reading. I hope the book is useful to you, and wish you 
+all the best of luck and persistence writing your book!

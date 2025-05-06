@@ -1,0 +1,13 @@
+\begin{thebibliography}{}
+
+\bibitem[Knuth and Bibby, 1984]{knuth1984texbook}
+Knuth, D.~E. and Bibby, D. (1984).
+\newblock {\em The TeXbook}, volume~15.
+\newblock Addison-Wesley Reading.
+
+\bibitem[Lamport, 1985]{lamport1985latex}
+Lamport, L. (1985).
+\newblock {\em LaTeX: A Document Preparation System}, volume 410.
+\newblock Addison-Wesley Professional; 2nd edition (June 30, 1994).
+
+\end{thebibliography}
