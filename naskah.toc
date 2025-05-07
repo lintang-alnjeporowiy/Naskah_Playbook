@@ -1,7 +1,12 @@
 \babel@toc {english}{}\relax 
-\contentsline {chapter}{\numberline {1}Transformasi Digital}{5}{chapter.1}%
-\contentsline {chapter}{\numberline {2}Mengenal iStow}{7}{chapter.2}%
-\contentsline {section}{\numberline {2.1}Pengalaman Mereka Bersama iStow}{8}{section.2.1}%
-\contentsline {chapter}{\nonumberline About the Author}{11}{chapter*.2}%
-\contentsline {chapter}{\nonumberline Bibliography}{13}{chapter*.3}%
+\contentsline {chapter}{\numberline {1}Pengantar}{5}{chapter.1}%
+\contentsline {chapter}{\numberline {2}Cerita tentang Kapal dan Muatannya}{7}{chapter.2}%
+\contentsline {chapter}{\numberline {3}Bagaimana cara menata muatan}{9}{chapter.3}%
+\contentsline {chapter}{\numberline {4}Transformasi Digital}{11}{chapter.4}%
+\contentsline {chapter}{\numberline {5}Mengenal iStow}{13}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Pengalaman Mereka Bersama iStow}{14}{section.5.1}%
+\contentsline {chapter}{\numberline {6}Regulasi}{17}{chapter.6}%
+\contentsline {chapter}{\numberline {7}Asuransi dan Penjaminan Mutu}{19}{chapter.7}%
+\contentsline {chapter}{\nonumberline About the Author}{21}{chapter*.2}%
+\contentsline {chapter}{\nonumberline Bibliography}{23}{chapter*.3}%
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 
