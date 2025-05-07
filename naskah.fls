@@ -196,12 +196,17 @@ INPUT c:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
 INPUT c:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm
 INPUT c:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm
 OUTPUT naskah.toc
+INPUT ./chapters/transformasi-digital.tex
+INPUT ./chapters/transformasi-digital.tex
+INPUT chapters/transformasi-digital.tex
 INPUT ./chapters/mengenal-iStow.tex
 INPUT ./chapters/mengenal-iStow.tex
 INPUT chapters/mengenal-iStow.tex
 INPUT c:/texlive/2024/texmf-dist/fonts/tfm/jknappen/ec/ecti1095.tfm
 INPUT c:/texlive/2024/texmf-dist/fonts/tfm/jknappen/ec/ecsx1440.tfm
+INPUT c:/texlive/2024/texmf-dist/fonts/tfm/jknappen/ec/tcrm1095.tfm
 INPUT c:/texlive/2024/texmf-dist/fonts/tfm/jknappen/ec/ecsl1095.tfm
+INPUT c:/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc
 INPUT ./author.tex
 INPUT ./author.tex
 INPUT ./author.tex
