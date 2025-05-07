@@ -1,13 +1,13 @@
 # Fdb version 4
-["bibtex naskah"] 1746591673.81901 "naskah.aux" "naskah.bbl" "naskah" 1746591676.5247 0
+["bibtex naskah"] 1746591673.81901 "naskah.aux" "naskah.bbl" "naskah" 1746604019.03851 0
   "./bibliography.bib" 1746479586 795 3db2e249f0c4bd6e15abd003973a23f6 ""
   "c:/texlive/2024/texmf-dist/bibtex/bst/base/apalike.bst" 1736393352 24635 604dafcc79f521a11ea73e506e1fbd98 ""
-  "naskah.aux" 1746591675 3070 0333a8a4dca9cb7963590df0cec7ae32 "pdflatex"
+  "naskah.aux" 1746604018 3070 0333a8a4dca9cb7963590df0cec7ae32 "pdflatex"
   (generated)
   "naskah.bbl"
   "naskah.blg"
   (rewritten before read)
-["pdflatex"] 1746591674.17912 "t:/iStow/tex/ebookbook/naskah.tex" "naskah.pdf" "naskah" 1746591676.52532 0
+["pdflatex"] 1746604016.6737 "t:/iStow/tex/ebookbook/naskah.tex" "naskah.pdf" "naskah" 1746604019.03918 0
   "author.tex" 1746583528 1658 3443d1b815bfdcee13a79b5daf464c24 ""
   "c:/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1736393903 2971 def0b6c1f0b107b3b936def894055589 ""
   "c:/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1736393903 2900 1537cc8184ad1792082cd229ecc269f4 ""
@@ -109,17 +109,17 @@
   "c:/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1736446820 5507294 622fb8774426721e33ee446696659781 ""
   "c:/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1736446930 3348213 f0107488c760fc6f73b961a39170299a ""
   "c:/texlive/2024/texmf.cnf" 1736446803 713 614551405fc44b98efbf516466e3c909 ""
-  "chapters/mengenal-iStow.tex" 1746591670 7025 8dc934b0e712e3944acbb0f5e0286fc7 ""
+  "chapters/mengenal-iStow.tex" 1746604016 7140 b395a056b6b0299c8c7e326b7a8e8a6a ""
   "chapters/transformasi-digital.tex" 1746590253 67 12cf7b75c5a36ebba36b242005bf06f7 ""
   "cover_page.tex" 1746521842 505 401b5d51ed4854e9316d2f1664fba92e ""
   "images/IMG20220130101652-1024x768.jpg" 1746521827 117497 b84353df4f84575df7e07ed6efc1f20f ""
   "lib/commands.tex" 1746479586 920 ea6c98d8b61d4368a87cf7c6ee09ddca ""
   "lib/packages.tex" 1746505215 407 9825a6551042e02c845fc0bc2fad95cc ""
-  "naskah.aux" 1746591675 3070 0333a8a4dca9cb7963590df0cec7ae32 "pdflatex"
+  "naskah.aux" 1746604018 3070 0333a8a4dca9cb7963590df0cec7ae32 "pdflatex"
   "naskah.bbl" 1746591674 49 0eba253fc001332e731e8aba3f23127b "bibtex naskah"
-  "naskah.out" 1746591675 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "naskah.out" 1746604017 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
   "naskah.tex" 1746590286 984 6aba5eb36eed2f375333a464a40d51e4 ""
-  "naskah.toc" 1746591675 474 3eb390e041a7c5e2d4ab907606109bff "pdflatex"
+  "naskah.toc" 1746604018 474 3eb390e041a7c5e2d4ab907606109bff "pdflatex"
   "t:/iStow/tex/ebookbook/naskah.tex" 1746590286 984 6aba5eb36eed2f375333a464a40d51e4 ""
   (generated)
   "naskah.aux"
