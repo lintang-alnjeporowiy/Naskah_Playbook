@@ -4,4 +4,4 @@
 - Sebagai tempat naskah yang sudah selesai disunting
 - Sebagai gambaran kasar penyatuan seluruh naskah buku jika sudah disatukan
 - Isi masing-masing bab dapat dilihat pada folder chapters, sesuai dengan judul bab.
-- silahkan clone dan konfirmasi ke Lintang Fitri untuk pull request dsb.
+- silahkan clone dan konfirmasi ke Lintang Fitri untuk ditambahkan sebagai _direct collaborator_ (agar lebih mudah berkontribusi).
