@@ -1,13 +1,13 @@
 # Fdb version 4
-["bibtex naskah"] 1746616238.65663 "naskah.aux" "naskah.bbl" "naskah" 1746616241.38854 0
+["bibtex naskah"] 1746671384.65169 "naskah.aux" "naskah.bbl" "naskah" 1746673296.50709 0
   "./bibliography.bib" 1746616189 1237 99a8e63d0e5d80568c289d64628a8a53 ""
   "c:/texlive/2024/texmf-dist/bibtex/bst/base/apalike.bst" 1736393352 24635 604dafcc79f521a11ea73e506e1fbd98 ""
-  "naskah.aux" 1746616240 6342 8ef630bd7f0d06d64beb70e36781b7c4 "pdflatex"
+  "naskah.aux" 1746673295 6845 e8d2853251b130bec06bdaec901e32e6 "pdflatex"
   (generated)
   "naskah.bbl"
   "naskah.blg"
   (rewritten before read)
-["pdflatex"] 1746616238.99763 "t:/iStow/tex/ebookbook/naskah.tex" "naskah.pdf" "naskah" 1746616241.38962 0
+["pdflatex"] 1746673294.14332 "t:/iStow/tex/ebookbook/naskah.tex" "naskah.pdf" "naskah" 1746673296.50772 0
   "author.tex" 1746583528 1658 3443d1b815bfdcee13a79b5daf464c24 ""
   "c:/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1736393903 2971 def0b6c1f0b107b3b936def894055589 ""
   "c:/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1736393903 2900 1537cc8184ad1792082cd229ecc269f4 ""
@@ -112,20 +112,20 @@
   "chapters/Bagaimana-cara-menata-muatan.tex" 1746609616 69 200ffe717d397e214947155140bb7a89 ""
   "chapters/asuransi-dan-penjaminan-mutu.tex" 1746609542 79 1f147c36261827c569884bef18c07940 ""
   "chapters/cerita-tentang-kapal-dan-muatannya.tex" 1746609704 84 64fd275c1dfe14e7690a717f0f62b078 ""
-  "chapters/mengenal-iStow.tex" 1746612669 7115 8c72f2998294a95eda8bb54dc8d6f851 ""
+  "chapters/mengenal-iStow.tex" 1746673293 8735 0f2951e06d72ba4f7867f311a326e842 ""
   "chapters/pengantar.tex" 1746609641 45 2724af893aa7280694f18341321848ee ""
   "chapters/regulasi.tex" 1746609658 43 ab1d1c3cc81b34bc346721682feaff8c ""
-  "chapters/transformasi-digital.tex" 1746616232 2939 fcb47c76e378f6d146631fe20eba8b56 ""
+  "chapters/transformasi-digital.tex" 1746671378 3764 6a02cbca2aa3c3f18247120cc96ecc79 ""
   "cover_page.tex" 1746521842 505 401b5d51ed4854e9316d2f1664fba92e ""
   "images/IMG20220130101652-1024x768.jpg" 1746521827 117497 b84353df4f84575df7e07ed6efc1f20f ""
   "images/number_of_lost_vessels.jpg.jpg" 1746615343 464188 db492b99e54a9d542d02b53d0e2bfd8f ""
   "lib/commands.tex" 1746479586 920 ea6c98d8b61d4368a87cf7c6ee09ddca ""
   "lib/packages.tex" 1746505215 407 9825a6551042e02c845fc0bc2fad95cc ""
-  "naskah.aux" 1746616240 6342 8ef630bd7f0d06d64beb70e36781b7c4 "pdflatex"
-  "naskah.bbl" 1746616238 264 b9a901505825d2fafdac8b5be04a34c5 "bibtex naskah"
-  "naskah.out" 1746616240 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "naskah.aux" 1746673295 6845 e8d2853251b130bec06bdaec901e32e6 "pdflatex"
+  "naskah.bbl" 1746671385 264 b9a901505825d2fafdac8b5be04a34c5 "bibtex naskah"
+  "naskah.out" 1746673295 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
   "naskah.tex" 1746612660 1201 4825606fc94a3cabf20990903c3de796 ""
-  "naskah.toc" 1746616240 866 0b4d6379d5d87e231f150de478da3dcc "pdflatex"
+  "naskah.toc" 1746673295 948 d0df8b96f50d54ea4ec700d2d9b8790d "pdflatex"
   "t:/iStow/tex/ebookbook/naskah.tex" 1746612660 1201 4825606fc94a3cabf20990903c3de796 ""
   (generated)
   "naskah.aux"
